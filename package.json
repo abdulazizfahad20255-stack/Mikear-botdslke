@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot-maker",
+  "version": "1.0.0",
+  "description": "Bot maker for broadcast bots",
+  "main": "maker.js",
+  "scripts": {
+    "start": "node maker.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  }
+}
