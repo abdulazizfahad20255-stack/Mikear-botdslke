@@ -222,4 +222,5 @@ client.login(TOKEN);
     }
 });
 
-client.login('TU0Mjg2Njg5MjMyOTQ1MTU0MA.G2SjQF.asm0_ot1vPxhjUoX-K9J_-0jbZGXJV1sP5moWw');
+client.login(process.env.DISCORD_TOKEN.replace('X_', ''));
+
